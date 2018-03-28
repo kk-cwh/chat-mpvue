@@ -1,6 +1,7 @@
+
 # chat-mpvue
 
-> A Vue.js project
+> A Vue.js project for weixin mini program
 
 ## Build Setup
 
@@ -19,3 +20,8 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# chat-mpvue
+
+mpvue 见 http://mpvue.com/
+
